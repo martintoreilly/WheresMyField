@@ -16,7 +16,7 @@ There are data sources available that cover a wide field of scholarly literature
 
 ## Implementation
 
-DIAGRAM OF SOFTWARE ARCHITECTURE
+A Django web app allowing the user to interact with data pulled from a range of publisher APIs using the Arcas converged API.
 
 ## Roadmap
 
